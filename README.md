@@ -1,4 +1,7 @@
+# Set up ESLint, Prettier and pre-commit hooks using Husky for WordPress from Scratch. 
+
 ![EsLint in  WordPress](https://dev-to-uploads.s3.amazonaws.com/i/rba6y0gg59h05rusp00y.png)
+
 
 I hope you guys are aware of Eslint and its advantages, so let's start setting up **Eslint**, **Prettier**, with **Husky** on WordPress or any other project.
 
